@@ -25,7 +25,7 @@ This analysis serves as a strategic tool for making **data-driven decisions** ai
 
 ## Repository Contents
 - `RCF ACADEMIC PERFORMANCE ANALYSIS.ipynb` - Jupyter Notebook containing the Python analysis.
-- `[https://github.com/Sammydcode/RCF-ACADEMIC-ANALYSIS/blob/main/RCF%20ACADEMIC%20DASHBOARD.pbix]` - Power BI dashboard for visual insights.
+- [https://github.com/Sammydcode/RCF-ACADEMIC-ANALYSIS/blob/main/RCF%20ACADEMIC%20DASHBOARD.pbix] - Power BI dashboard for visual insights.
 - `RCF.pdf` - Documentation of the analysis.
 - `RCF ACADEMIC PERFORMANCE ANALYSIS.slides.html` - Presentation slides summarizing the findings.
 
