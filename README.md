@@ -32,4 +32,4 @@ This analysis serves as a strategic tool for making **data-driven decisions** ai
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sammydcode/RCF-ACADEMIC-ANALYSIS.git
+   git clone https://github.com/Sammydcode/RCF-ACADEMIC-ANALYSIS/tree/main
